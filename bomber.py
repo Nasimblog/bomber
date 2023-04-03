@@ -1,7 +1,7 @@
 # Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2023-02-25 22:46:08.421029
 
-import os,sys,time,requests,random,string
+import 'os',sys,time,requests,random,string
 import random
 def Axak(xak):
 	for x in xak:
